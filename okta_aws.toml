@@ -1,0 +1,8 @@
+[general]
+username="sgallagher"
+okta_server="chef.okta.com"
+[solutions-architects]
+role_arn = "Okta_PowerUser"
+[aliases]
+sa = "solutions-architects"
+session_duration = 3600
